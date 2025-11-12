@@ -1,3 +1,7 @@
+#### Github workflow tutorial
+
+#### Simple CI
+
 ##### build the project
 
     ./gradlew build
