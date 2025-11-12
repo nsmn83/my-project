@@ -1,4 +1,6 @@
-#### Github workflow tutorials
+#### Github workflow tutorial
+
+#### Simple CI
 
 ##### build the project
 
